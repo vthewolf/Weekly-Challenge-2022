@@ -2,7 +2,7 @@
  * LA SUCESIÓN DE FIBONACCI
  * DIFICULTAD: DIFICIL
  * ENUNCIADO: Escribe un programa que imprima los 50 primeros números de la sucesión de Fibonacci empezando por el 0.
- * La serid de Fibonacci se compone de una sucesión de números en la que el siguiente siempre es la suma del anterior.
+ * La serie de Fibonacci se compone de una sucesión de números en la que el siguiente siempre es la suma del anterior.
  * 0, 1, 1, 2, 3, 5, 8, 13...
  */
 
